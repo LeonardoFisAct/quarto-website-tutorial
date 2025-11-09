@@ -1,0 +1,10 @@
+---
+title: "r-example"
+format: html
+---
+
+
+```{r}
+summary(cars)
+plot(pressure)
+```
